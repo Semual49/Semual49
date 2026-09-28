@@ -7,7 +7,7 @@ I build models, compare them honestly, and document what works and what does not
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Main Tools
 
@@ -45,7 +45,7 @@ I build models, compare them honestly, and document what works and what does not
 
 ---
 
-## Contact
+## 🌐 Contact
 
 - GitHub: [@Semual49](https://github.com/Semual49)
 - LinkedIn: [samuel-harun](https://www.linkedin.com/in/samuel-harun-4b97852a9/)
