@@ -7,7 +7,7 @@ I build models, compare them honestly, and document what works and what does not
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 ### Main Tools
 
@@ -45,7 +45,7 @@ I build models, compare them honestly, and document what works and what does not
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect with Me!
 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelcarh)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-harun-4b97852a9/)
