@@ -1,8 +1,11 @@
 # Hi, I'm Samuel Christopher Alta Roni Harun 👋
 
-Data science student at BINUS University. I build models, compare them honestly, and document what works and what does not.
+🎓 **Undergraduate Data Science Student** at [BINUS University](https://binus.ac.id)  
+📍 Based in Bekasi, Indonesia
 
-\n\n
+I build models, compare them honestly, and document what works and what does not.
+
+---
 
 ## Tech Stack
 
@@ -40,7 +43,7 @@ Data science student at BINUS University. I build models, compare them honestly,
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-\n\n
+---
 
 ## Contact
 
