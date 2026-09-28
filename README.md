@@ -47,6 +47,6 @@ I build models, compare them honestly, and document what works and what does not
 
 ## 🌐 Contact
 
-- GitHub: [@Semual49](https://github.com/Semual49)
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelcarh)
 - LinkedIn: [samuel-harun](https://www.linkedin.com/in/samuel-harun-4b97852a9/)
-- Email: samuelcarh7@gmail.com
+- Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelcarh7@gmail.com) 
