@@ -1,27 +1,28 @@
 # Hi, I'm Samuel Christopher Alta Roni Harun 👋
 
-Data science student on BINUS University. I build models, compare them honestly, and document what works and what does not.
+Data science student at BINUS University. I build models, compare them honestly, and document what works and what does not.
 
 ## Tech Stack
 
-### Main tools:
+### Main Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Languages
+### Other Languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Data Science and Machine Learning
+### Deep Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -31,14 +32,13 @@ Data science student on BINUS University. I build models, compare them honestly,
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Tools and Frameworks
+### Deployment and Tools
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Featured Project
+## Featured Projects
 
 ### Smart Traffic Monitoring with YOLOv8
 
@@ -49,10 +49,16 @@ Vehicle detection for Indonesian traffic (angkot, becak, motor, pick up, trucks,
 | YOLOv8s | 0.831 | 0.577    | 0.756  | 17.7           |
 | YOLOv8n | 0.751 | 0.523    | 0.696  | 8.2            |
 
-Repository: github.com/Semual49/Smart-Traffic-Monitoring-YOLOv8-DL
+Repository: [Smart-Traffic-Monitoring-YOLOv8-DL](https://github.com/Semual49/Smart-Traffic-Monitoring-YOLOv8-DL)
+
+### AWS and Streamlit Credit Score Deployment
+
+Credit score model deployed as a web app with Streamlit on AWS.
+
+Repository: [AWS-and-Streamlit-Credit-Score-Deployment-MD](https://github.com/Semual49/AWS-and-Streamlit-Credit-Score-Deployment-MD)
 
 ## Contact
 
 - GitHub: [@Semual49](https://github.com/Semual49)
-- LinkedIn: https://www.linkedin.com/in/samuel-harun-4b97852a9/
+- LinkedIn: [samuel-harun](https://www.linkedin.com/in/samuel-harun-4b97852a9/)
 - Email: samuelcarh7@gmail.com
