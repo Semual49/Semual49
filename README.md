@@ -47,6 +47,6 @@ I build models, compare them honestly, and document what works and what does not
 
 ## 🌐 Contact
 
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelcarh)
-- LinkedIn: [samuel-harun](https://www.linkedin.com/in/samuel-harun-4b97852a9/)
-- Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelcarh7@gmail.com) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelcarh)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-harun-4b97852a9/)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelcarh7@gmail.com) 
