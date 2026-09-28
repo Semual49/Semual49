@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Christopher Alta Roni Harun 👋
+# Hi, I'm Samuel Harun 👋
 
 🎓 **Undergraduate Data Science Student** at [BINUS University](https://binus.ac.id)  
 📍 Based in Bekasi, Indonesia
