@@ -2,6 +2,8 @@
 
 Data science student at BINUS University. I build models, compare them honestly, and document what works and what does not.
 
+\n\n
+
 ## Tech Stack
 
 ### Main Tools
@@ -37,7 +39,8 @@ Data science student at BINUS University. I build models, compare them honestly,
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-\n
+
+\n\n
 
 ## Contact
 
