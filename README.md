@@ -37,25 +37,7 @@ Data science student at BINUS University. I build models, compare them honestly,
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Featured Projects
-
-### Smart Traffic Monitoring with YOLOv8
-
-Vehicle detection for Indonesian traffic (angkot, becak, motor, pick up, trucks, and more). Two models, YOLOv8s and YOLOv8n, were fine-tuned from COCO pretrained weights with identical settings to compare accuracy against speed.
-
-| Model   | mAP50 | mAP50-95 | Recall | Inference (ms) |
-|---------|------:|---------:|-------:|---------------:|
-| YOLOv8s | 0.831 | 0.577    | 0.756  | 17.7           |
-| YOLOv8n | 0.751 | 0.523    | 0.696  | 8.2            |
-
-Repository: [Smart-Traffic-Monitoring-YOLOv8-DL](https://github.com/Semual49/Smart-Traffic-Monitoring-YOLOv8-DL)
-
-### AWS and Streamlit Credit Score Deployment
-
-Credit score model deployed as a web app with Streamlit on AWS.
-
-Repository: [AWS-and-Streamlit-Credit-Score-Deployment-MD](https://github.com/Semual49/AWS-and-Streamlit-Credit-Score-Deployment-MD)
+\n
 
 ## Contact
 
