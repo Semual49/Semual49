@@ -1,9 +1,10 @@
 # Hi, I'm Samuel Harun 👋
 
 🎓 **Undergraduate Data Science Student** at BINUS University
+
 📍 Based in Bekasi, Indonesia
 
-I build models, compare them honestly, and document what works and what does not.
+I build models, compare them, and document what works and what does not.
 
 ---
 
